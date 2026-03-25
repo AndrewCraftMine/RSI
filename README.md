@@ -1,8 +1,8 @@
 # 👑 RSI: Play Integrity & Stuffs
 
-**Autores:** Sukuna y Padre
-**Versión:** v12.0 (120)
-**SHA256:** `0b851bd00e40168152676a24fe7dacffb46f5120cdda7e88b0e1e4b370038ff5`
+- **Autores:** Sukuna y Padre
+- **Versión:** v12.0 (120)
+- **SHA256:** `0b851bd00e40168152676a24fe7dacffb46f5120cdda7e88b0e1e4b370038ff5`
 
 ---
 
