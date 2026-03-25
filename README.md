@@ -2,13 +2,13 @@
 
 - **Autores:** Sukuna y Padre
 - **Versión:** v12.0 (120)
-- **SHA256:** `0b851bd00e40168152676a24fe7dacffb46f5120cdda7e88b0e1e4b370038ff5`
+- **SHA256:** `18b3cc5dab4a8cd8ffa7dbd9b471810fad2828074e365557882dc505d5a20414`
 
 ---
 
 ## Descripción
 
-RSI es un módulo diseñado para optimizar la seguridad, evasión de detección y compatibilidad con múltiples dispositivos Android. Incluye mejoras avanzadas en la ocultación de root, evasión de verificaciones de integridad y limpieza de registros del sistema.
+RSI es un módulo diseñado para optimizar la seguridad, evasión de detección y compatibilidad con múltiples dispositivos Android. Incluye mejoras avanzadas en la ocultación de root, evasión de verificaciones de integridad, limpieza de registros del sistema y más.
 
 ---
 
