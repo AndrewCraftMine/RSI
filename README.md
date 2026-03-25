@@ -31,15 +31,15 @@ RSI es un módulo diseñado para optimizar la seguridad, evasión de detección 
 
 ---
 
-## 📦 Instalación
+## Instalación
 
 1. Descarga el módulo `.zip` de la versión más reciente.  
-2. Instálalo desde Magisk Manager.  
+2. Instálalo desde Magisk, KernelSU o APatch.  
 3. Reinicia tu dispositivo y usa el botón de acción para validación en tiempo real.
 
 ---
 
-## 🛠️ Compatibilidad
+## Compatibilidad
 
 Compatible con la mayoría de dispositivos Android modernos y OEMs como:  
 
@@ -50,12 +50,12 @@ Compatible con la mayoría de dispositivos Android modernos y OEMs como:
 
 ---
 
-## 🔧 Soporte
+## Soporte
 
-Para dudas, reportes de errores o actualizaciones, sigue las instrucciones dentro del módulo o contacta a los autores.
+Para dudas, reportes de errores o actualizaciones, contacta a los autores.
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto es de uso personal y educativo. El uso comercial o distribución sin permiso está prohibido.
