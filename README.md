@@ -39,7 +39,7 @@ RSI es un módulo diseñado para optimizar la seguridad, evasión de detección 
 
 
 > [!WARNING]
-> Se requiere **compra de licencia** 💸 para su uso:
+> Se requiere **compra de licencia (membresía)** 💸 para su uso:
 > - ✨ Precio normal: $15 USD
 > - 💎 Afiliación [NBM](https://youtube.com/@topgamesnbm?si=pMkCCbTnKnAR4iyy): $8 USD
 
