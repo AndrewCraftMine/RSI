@@ -1,6 +1,6 @@
 # 👑 RSI: Play Integrity & Stuffs
 
-- **Autores:** Sukuna y Padre
+- **Autores:** [Sukuna](https://api.whatsapp.com/send?phone=+593979930107&text=Hola,%20quiero%20comprar%20una%20licencia%20para%20usar%20RSI.) y Padre
 - **Versión:** v12.0 (120)
 - **SHA256:** `18b3cc5dab4a8cd8ffa7dbd9b471810fad2828074e365557882dc505d5a20414`
 
@@ -14,22 +14,17 @@ RSI es un módulo diseñado para optimizar la seguridad, evasión de detección 
 
 ## Características principales
 
-- 🛡️ Protección anti-bootloop optimizada.  
-- ✅ Mejoras avanzadas en la evasión de verificaciones de integridad.  
-- 🔍 Ocultación de root reforzada.  
-- 🕵️ Técnicas avanzadas de evasión de detección.  
-- 🧹 Limpieza automática de registros del sistema y rastros de fallos.  
-- ⚙️ Aplicación estricta de propiedades seguras del sistema.  
-- 📲 Compatibilidad ampliada con múltiples OEMs (Samsung, realme, OPPO, OnePlus).  
+- 🛡️ Protección anti-bootloop optimizada.
+- ✅ Mejoras avanzadas en la evasión de verificaciones de integridad.
+- 🔍 Ocultación de root reforzada.
+- 🕵️ Técnicas avanzadas de evasión de detección.
+- 🧹 Limpieza automática de registros del sistema y rastros de fallos.
+- ⚙️ Aplicación estricta de propiedades seguras del sistema.
+- 📲 Compatibilidad ampliada con múltiples OEMs (Samsung, realme, OPPO, OnePlus).
 - ⚡ Pruebas integradas con Play Integrity Check y Momo para validación en tiempo real desde el botón de acción.  
-- 🚫 Servicios de Google añadidos a la lista de denegación (Magisk).  
-- 🌐 Traducción parcial al español.  
-- 🐞 Corrección de errores.  
-
-> [!WARNING]  
-> Se requiere **compra de licencia** para uso completo:  
-> - Precio normal: $15  
-> - Afiliación NBM: $8  
+- 🚫 Servicios de Google añadidos a la lista de denegación (Magisk).
+- 🌐 Traducción parcial al español.
+- 🐞 Corrección de errores.
 
 > [!WARNING]  
 > Se requiere **acceso a Internet** 📶 para un *funcionamiento óptimo*.
@@ -38,25 +33,26 @@ RSI es un módulo diseñado para optimizar la seguridad, evasión de detección 
 
 ## Instalación
 
-1. Descarga el módulo `.zip` de la versión más reciente.  
+1. Descarga el módulo `.zip` de la versión más reciente. 
 2. Instálalo desde **Magisk**, **KernelSU** o **APatch**.  
-3. Reinicia tu dispositivo.  
-4. Usa el **botón de acción** para validar en tiempo real y activar todas las funciones del módulo.  
+3. Reinicia tu dispositivo y usa el botón de acción para validación en tiempo real.
+
+
+> [!WARNING]
+> Se requiere **compra de licencia** para su uso:
+> - Precio normal: $15
+> - Afiliación [NBM](https://youtube.com/@topgamesnbm?si=pMkCCbTnKnAR4iyy): $8
 
 ---
 
 ## Compatibilidad
 
-Compatible con la mayoría de dispositivos Android modernos y OEMs como:  
+Compatible con la mayoría de dispositivos Android modernos y OEMs como:
 
-- Samsung  
-- realme  
-- OPPO  
-- OnePlu
-- Samsung  
-- realme  
-- OPPO  
-- OnePlus  
+- Samsung
+- realme
+- OPPO
+- OnePlus
 
 ---
 
