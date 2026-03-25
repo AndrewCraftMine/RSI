@@ -8,7 +8,7 @@
 - ⚙️ Aplicación estricta de propiedades seguras del sistema.
 - 📲 Compatibilidad ampliada con múltiples OEMs (Samsung, realme, OPPO, OnePlus).
 - ⚡ Pruebas integradas con Play Integrity Check y Momo para validación en tiempo real desde el botón de acción.
-- 🚫 Servicios de Google añadidos a la lista de denegación.
+- 🚫 Servicios de Google añadidos a la lista de denegación (Magisk).
 - 🌐 Traducción parcial al español.
 - 🐞 Corrección de errores.
 
