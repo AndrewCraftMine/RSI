@@ -33,15 +33,15 @@ RSI es un módulo diseñado para optimizar la seguridad, evasión de detección 
 
 ## Instalación
 
-1. Descarga el módulo `.zip` de la versión más reciente. 
-2. Instálalo desde **Magisk**, **KernelSU** o **APatch**.  
-3. Reinicia tu dispositivo y usa el botón de acción para validación en tiempo real.
+1. 📥 Descarga el módulo `.zip` de la versión más reciente. 
+2. ➕ Instálalo desde **Magisk**, **KernelSU** o **APatch**.  
+3. 🔄 Reinicia tu dispositivo y **usa el botón de acción** para validación en tiempo real.
 
 
 > [!WARNING]
-> Se requiere **compra de licencia** para su uso:
-> - Precio normal: $15
-> - Afiliación [NBM](https://youtube.com/@topgamesnbm?si=pMkCCbTnKnAR4iyy): $8
+> Se requiere **compra de licencia** 💸 para su uso:
+> - ✨ Precio normal: $15 USD
+> - 💎 Afiliación [NBM](https://youtube.com/@topgamesnbm?si=pMkCCbTnKnAR4iyy): $8 USD
 
 ---
 
